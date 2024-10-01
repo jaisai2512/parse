@@ -14,3 +14,4 @@ unstructured-inference
 langchain
 PyMuPDF
 PyMuPDFb
+python-dotenv
