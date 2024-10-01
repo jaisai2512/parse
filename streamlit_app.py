@@ -1,6 +1,7 @@
 from sambaverse import parse_doc_universal
 
 import streamlit as st
+import os
 # Title of the app
 st.title("PDF Uploader")
 
