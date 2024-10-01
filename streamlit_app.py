@@ -25,5 +25,5 @@ if uploaded_file is not None:
     additional_metadata = {'key': 'value'}
     texts, metadata_list, langchain_docs = parse_doc_universal(file_path,additional_metadata,source_type, additional_metadata)
     for i in langchain_docs:
-        st.writ(i)
+        st.write(i)
         exit()
