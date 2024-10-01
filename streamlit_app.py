@@ -1,4 +1,4 @@
-from sambaparse import parse_doc_universal
+from sambaverse import parse_doc_universal
 
 import streamlit as st
 # Title of the app
