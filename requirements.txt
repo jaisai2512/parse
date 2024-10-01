@@ -15,3 +15,5 @@ langchain
 PyMuPDF
 PyMuPDFb
 python-dotenv
+langchain-community
+langchain-core
